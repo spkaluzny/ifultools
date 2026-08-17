@@ -1,6 +1,6 @@
 Package: ifultools
 Title: Insightful Research Tools
-Version: 2.0-27
+Version: 2.0-28
 Authors@R: c(person(given = "William", family = "Constantine", role = "aut"),
   person(given = "Stephen", family = "Kaluzny", role = c("aut", "cre"),
     email = "spkaluzny@gmail.com"),
